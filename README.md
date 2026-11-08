@@ -67,8 +67,8 @@ Pré-requisitos:
 Clone o repositório e instale as dependências:
 
 ```bash
-git clone <url-deste-repositorio>
-cd <nome-da-pasta>
+git clone https://github.com/AlexandreVenturini/pilha-manutencao-aparelhos.git
+cd pilha-manutencao-aparelhos
 npm install
 ```
 
